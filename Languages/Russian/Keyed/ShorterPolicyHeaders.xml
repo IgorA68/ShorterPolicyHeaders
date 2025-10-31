@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- Ванильные кнопки -->
+    <ManageApparelPolicies>Гардероб...</ManageApparelPolicies>
+    <ManageDrugPolicies>Препараты...</ManageDrugPolicies>
+    <ManageFoodPolicies>Диета...</ManageFoodPolicies>
+    <ManageReadingPolicies>Чтение...</ManageReadingPolicies>
+    <!-- Ванильные столбцы -->
+    <PolicyApparel>Гардероб</PolicyApparel>
+    <PolicyFood>Диета</PolicyFood>
+    <PolicyDrugs>Препараты</PolicyDrugs>
+    <PolicyReading>Чтение</PolicyReading>
+    <!-- Combat Extended: кнопки и столбцы -->
+    <CE_ManageLoadouts>Выкладки...</CE_ManageLoadouts>
+    <CE_CurrentLoadout>Выкладки</CE_CurrentLoadout>
+    <CE_UpdateLoadoutNow>rearm</CE_UpdateLoadoutNow>
+    <CE_SelectLoadout>Выбрать...</CE_SelectLoadout>
+    <CE_NewLoadout>Создать</CE_NewLoadout>
+    <CE_DeleteLoadout>Удалить...</CE_DeleteLoadout>
+    <CE_CopyLoadout>Копировать</CE_CopyLoadout>
+    <CE_SaveLoadout>Сохранить...</CE_SaveLoadout>
+    <CE_LoadLoadout>Загрузить...</CE_LoadLoadout>
+    <CE_ParentLoadout>Основа...</CE_ParentLoadout>
+    <!-- Compositable Loadouts -->
+    <CompositableLoadouts.ModifyStates>CL правила...</CompositableLoadouts.ModifyStates>
+    <CompositableLoadouts.SelectState>Выбрать</CompositableLoadouts.SelectState>
+</LanguageData>
